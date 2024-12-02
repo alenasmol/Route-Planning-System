@@ -1,0 +1,16 @@
+[
+  {
+    "route_id": 2,
+    "start_location": "New York",
+    "end_location": "Chicago",
+    "distance_km": 1146.0,
+    "travel_time_min": 780
+  },
+  {
+    "route_id": 3,
+    "start_location": "Chicago",
+    "end_location": "Houston",
+    "distance_km": 1517.0,
+    "travel_time_min": 1050
+  }
+]
