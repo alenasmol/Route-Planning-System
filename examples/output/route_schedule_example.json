@@ -1,0 +1,9 @@
+[
+  {
+    "route_id": 1,
+    "start_location": "New York",
+    "end_location": "Los Angeles",
+    "departure_time": "08:00",
+    "arrival_time": "16:45"
+  }
+]
